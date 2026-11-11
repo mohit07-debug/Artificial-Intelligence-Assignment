@@ -180,7 +180,7 @@ To generate predictions for another evaluation dataset, configure `TEST_PATH` in
 ## Author
 
 **Mohit Jalani**
-**M26MER004**
+**(M26MER004)**
 
 M.Tech – Robotics
 Indian Institute of Technology Jodhpur  
